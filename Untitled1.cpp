@@ -68,8 +68,8 @@ int main()
     Stack <float> stk_float;
 
     //Populam Stack-urile:
-    stk_int.push(112);
-    stk_int.push(332);
+    stk_int.push(123);
+    stk_int.push(3352);
     stk_int.push(12);
     stk_int.push(23);
     stk_float.push(41.134);
